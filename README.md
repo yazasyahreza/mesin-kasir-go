@@ -1,0 +1,1 @@
+This is the final project of my internship as a junior backend developer to create a store application designed in the form of an API using Go/Golang and MySQL. in this store application we can CRUD items and employees, and make sales transactions. I did this project independently with conceptual input from my mentor.
