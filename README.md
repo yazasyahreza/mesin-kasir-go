@@ -1,1 +1,8 @@
-This is my final internship project as a junior backend developer with my mentor. The goal is to create a store application designed in the form of an API using Go/Golang and MySQL. In this store application, we can perform CRUD operations on goods and employees, make sales transactions, and view transaction history.
+As part of my final internship, I worked as a Junior Backend Developer to build a store application API using Go (Golang) and MySQL.
+The API supports:
+
+- CRUD operations for goods and employees
+- Sales transaction processing
+- Viewing transaction history
+
+This project focused on implementing efficient backend logic, structuring endpoints, and ensuring smooth database communication through RESTful design.
